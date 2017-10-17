@@ -1,0 +1,83 @@
+.cajaBase {
+  background-color: #47B23A;
+  position: absolute;
+  height: 600px;
+  width: 1000px;
+}
+
+.cancha {
+  height: 550px;
+  width: 950px;
+  border: 5px solid white;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.arcoIzq{
+  height: 250px;
+  width: 110px;
+  border: 5px solid white;
+  position: absolute;
+  left: 20px;
+  top: 165px;
+}
+
+.arcoDer{
+  height: 250px;
+  width: 110px;
+  border: 5px solid white;
+  position: absolute;
+  left: 860px;
+  top: 165px;
+}
+
+.centro{
+  width: 230px;
+  height: 230px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  border: 5px solid white;
+  position: absolute;
+  top: 180px;
+  left: 370px;
+}
+
+.pelota1{
+  width: 30px;
+  height: 30px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: white;
+  border: 1px solid grey;
+  position: absolute;
+  top: 370px;
+  left: 820px;
+}
+
+.pelota2{
+  width: 30px;
+  height: 30px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: white;
+  border: 1px solid grey;
+  position: absolute;
+  top: 105px;
+  left: 515px;
+}
+
+.pelota3{width: 30px;
+height: 30px;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+background: white;
+border: 1px solid grey;
+position: absolute;
+top: 170px;
+left: 115px;
+}
